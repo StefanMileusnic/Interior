@@ -1,4 +1,4 @@
-import HeroPng from "../../assets/Hero.png";
+import HeroPng from "../../assets/hero.png";
 import { motion } from "framer-motion";
 import { SlideUp } from "../../animation/animate";
 
